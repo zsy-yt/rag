@@ -14,6 +14,8 @@ faiss_doctor_index/：运行后自动生成的 FAISS 向量索引目录（保存
 
 📌 Notebook 在线查看链接
 👉 rag/chatbot-rag-with-qwen2-7b.ipynb at main · zsy-yt/rag
+
+
 ⚙️ 环境依赖
 python
 Python 3.10
