@@ -13,8 +13,7 @@ data.jsonl：知识库原始数据，每行一个 JSON 对象，正文存放在 
 faiss_doctor_index/：运行后自动生成的 FAISS 向量索引目录（保存于 /kaggle/working/）
 
 📌 Notebook 在线查看链接
-👉 点击查看完整项目rag/chatbot-rag-with-qwen2-7b.ipynb at main · zsy-yt/rag
-
+👉 rag/chatbot-rag-with-qwen2-7b.ipynb at main · zsy-yt/rag
 ⚙️ 环境依赖
 python
 Python 3.10
